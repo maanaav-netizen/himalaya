@@ -1,0 +1,17 @@
+{
+  "name": "हिमाल चिनौँ — Nepal Peaks",
+  "short_name": "हिमाल चिनौँ",
+  "description": "नेपालका अग्ला हिमालको offline guide",
+  "id": "./",
+  "lang": "ne",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f7f1",
+  "theme_color": "#101d1b",
+  "orientation": "portrait",
+  "icons": [
+    {"src":"icons/himalaya-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"icons/himalaya-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
